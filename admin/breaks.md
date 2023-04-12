@@ -18,7 +18,7 @@ Wednesday
 
 Thursday (on-site)
 - ~~Break 1: 10:30-10:45am~~ - YearUp Meetings 8:30am-10:00am
-- Lunch: 12:00-12:50pm
+- Lunch: 12:00-1:00pm
 - Break 2: 3:00-3:15pm
 
 
