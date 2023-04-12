@@ -57,6 +57,7 @@
 
 > Note: these last 3 steps can be repeated over and over after the project is setup to take additional snapshots (commits)
 
-
+### Details
+[For an even more detailed steps click here](https://scribehow.com/shared/Commiting_Code_Locally__IyYR3r5DTmaZUpXYazEDaA)
 
 ### &#10004; You have committed changes to a local Git repository
