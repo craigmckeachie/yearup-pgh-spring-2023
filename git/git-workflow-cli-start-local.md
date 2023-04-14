@@ -108,6 +108,16 @@
       git push origin main
     ```
 
+    > Note you won't have to specify the `remote` and `branch`. You can just do the following:
 
+    ```
+    git push
+    ```
 
+    If you previously did this configuration:
 
+    ```sh
+    git config --global push.default current
+    ```
+
+    [For more details see this stack overflow post](https://stackoverflow.com/questions/37770467/why-do-i-have-to-git-push-set-upstream-origin-branch).
