@@ -42,6 +42,14 @@
    git init
    ```
 
+1. Verify your files are in the working directory (area) but have not yet been staged (untracked)
+
+   ```sh
+   git status
+   ```
+
+   > Untracked files are files that have been created within your repo's working directory but have not yet been added to the repository's tracking index using the git add command.
+
 1. Stage your changes to the local git repository.
 
    ```sh
@@ -114,7 +122,7 @@
     git push
     ```
 
-    If you previously did this configuration:
+    *If you previously did this configuration:*
 
     ```sh
     git config --global push.default current
