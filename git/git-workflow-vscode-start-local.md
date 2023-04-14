@@ -45,7 +45,7 @@
    ![image](https://user-images.githubusercontent.com/1474579/231318265-890c8710-1927-4c0b-8a7c-185756151913.png)
 
 1. View your commit.
-   
+
    ![image](https://user-images.githubusercontent.com/1474579/231318955-83cfe60c-ad17-42b5-a0f6-ec229a97f79b.png)
 
 ### Write more code and save additional snapshots of the code frequently
@@ -61,13 +61,11 @@
 
 > Note: these last 3 steps can be repeated over and over after the project is setup to take additional snapshots (commits)
 
-
 ### &#10004; You have committed changes to a local Git repository
+
 <br>
 
 ---
-
-
 
 # Remote Repository
 
@@ -80,14 +78,13 @@
 ### Push/Publish Code to a remote repository
 
 1. **Click** the **"Publish Branch"** button
-<img width="453" alt="image" src="https://user-images.githubusercontent.com/1474579/231914157-4d8f0149-121b-4669-ac02-197ca2add8ed.png">
+   <img width="453" alt="image" src="https://user-images.githubusercontent.com/1474579/231914157-4d8f0149-121b-4669-ac02-197ca2add8ed.png">
 
 2. **Choose** to create a **"Public Repository"**
-<img width="1258" alt="image" src="https://user-images.githubusercontent.com/1474579/231914647-0fd26735-aeff-4083-9d4e-47843ae35f9b.png">
+   <img width="1258" alt="image" src="https://user-images.githubusercontent.com/1474579/231914647-0fd26735-aeff-4083-9d4e-47843ae35f9b.png">
 
-    > Note: the publish button will only be shown if you have no working and/or staging files
+   > Note: the publish button will only be shown if you have no working and/or staging files
 
-    > Tip: You can choose the three dots in the menu and choose the **Push** action to publish when you have files that are in working or staging
+   > Tip: You can choose the three dots in the menu and choose the **Push** action to publish when you have files that are in working or staging
 
-    <img width="767" alt="image" src="https://user-images.githubusercontent.com/1474579/231915251-168e4622-594d-475a-ae36-bc838b28e605.png">
-
+   <img width="767" alt="image" src="https://user-images.githubusercontent.com/1474579/231915251-168e4622-594d-475a-ae36-bc838b28e605.png">
