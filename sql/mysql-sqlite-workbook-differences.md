@@ -7,7 +7,7 @@
   - doesn't work
   - instead use VS Code Command Palette > SQLite Use Database
 - select \* from database.tablename
-  - edoesn't work
+  - doesn't work
   - instead use VS Code Command Palette > SQLite Use Database
 - SQL_SAFE_UPDATES (MySQL) not applicable to SQLite
 - Now() (MySQL) = Date() (SQLite)
