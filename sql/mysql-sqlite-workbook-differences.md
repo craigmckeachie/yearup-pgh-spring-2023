@@ -1,4 +1,4 @@
-## MySQL SQLite Workbook Differences
+## MySQL vs SQLite Workbook Differences
 
 - use these [database examples](https://github.com/craigmckeachie/sqlite-examples)
 - use [SQLite VS Code Extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
@@ -14,6 +14,16 @@
   - use in first INSERT example
 - START TRANSACTION; COMMIT (MySQL) = BEGIN TRANSACTION; COMMIT; (SQLite)
 - No easy way to create database diagrams. No VS Code Extension Supports. [More information](https://stackoverflow.com/questions/59654755/how-to-generate-sqlite-entity-relationship-diagram-from-database-file).
+- AUTO_INCREMENT (MySQL) = AUTOINCREMENT (SQLite)
+  - Create table example in SQLite
+  ```sql
+    CREATE TABLE advertisements (
+    AdId INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    Title varchar(50) NOT NULL,
+    MagicCode varchar(9),
+    PercentOff float NOT NULL);
+  ```
+- Data Types supported by each database differ
 
 ## Comparison
 
