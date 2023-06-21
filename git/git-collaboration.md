@@ -10,6 +10,9 @@
 - Who: Owner
 - [Create your local and remote repository](git-workflow-cli-start-local.md)
 - [Configure your remote repository](git-config-remote-repository.md)
+---
+- Who: Collaborator
+- [Clone remote repository to local computer](git-closing-github-project.md)
 
 ## Many times
 
