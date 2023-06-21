@@ -55,7 +55,7 @@ git commit -m "initial commit"
 ### CLI
 
 ```sh
-git commit -m "initial commit"
+git push origin main
 ```
 
 
