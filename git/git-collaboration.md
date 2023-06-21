@@ -15,5 +15,5 @@
 - [Clone remote repository to local computer](git-cloning-github-project.md)
 
 ## Many times
-
+- Who: Owner and Collaborators
 - [Feature Branch/Pull Request Workflow](git-feature-branch-workflow.md)

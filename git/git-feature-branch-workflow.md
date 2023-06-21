@@ -75,7 +75,7 @@
 
 1.  Merge the pull request:
 
-    The pull request reviewer (designated person) reviews the changes, ensuring they meet the requirements and have proper test coverage.
+    The pull request reviewer (designated person...often the owner of the repository) reviews the changes, ensuring they meet the requirements and have proper test coverage.
 
     If conflicts occur during the merge on GitHub.com, GitHub will notify you and prevent the merge from proceeding. Conflicts need to be resolved.
 
