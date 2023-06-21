@@ -14,8 +14,8 @@ To lock the main branch of your GitHub repository and allow collaborators to cre
 Now that the main branch is locked, collaborators cannot directly push changes to it. Instead, they need to create branches, make changes, and submit pull requests for review. To add collaborators and give them write access to the repository so they can create branches, follow these additional steps:
 
 1. On the repository page, click on the **Settings** tab.
-2. In the left sidebar, click on **Manage access**.
-3. Click on the green **Invite a collaborator** button.
+2. In the left sidebar, click on **Collaborators**.
+3. Click on the green **Add People** button.
 4. Enter the GitHub username or email address of the collaborator you want to add.
 5. Select the collaborator's name from the dropdown list that appears.
 6. Choose the appropriate permission level for the collaborator (e.g., **Write** access).
