@@ -110,6 +110,16 @@
 
 ### Push/Publish Code to a remote repository
 
+1.  Create the `origin` remote to point to your repository on Github.
+
+    ```bash
+    git remote add origin <Github URL>;
+    ```
+
+    This command adds a remote repository with the given GitHub URL. The "origin" is a commonly used name for the remote repository, but you can choose a different name if desired. This step only needs to be done one time when the project repository is first setup.
+
+    > A remote is just an abbreviation for the longer full Github remote repository url
+
 1.  "Push Publish" the `main` branch to the `origin` remote
 
     ```sh
@@ -122,7 +132,7 @@
     git push
     ```
 
-    *If you previously did this configuration:*
+    _If you previously did this configuration:_
 
     ```sh
     git config --global push.default current
