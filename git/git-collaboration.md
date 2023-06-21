@@ -12,7 +12,7 @@
 - [Configure your remote repository](git-config-remote-repository.md)
 ---
 - Who: Collaborator
-- [Clone remote repository to local computer](git-closing-github-project.md)
+- [Clone remote repository to local computer](git-cloning-github-project.md)
 
 ## Many times
 
