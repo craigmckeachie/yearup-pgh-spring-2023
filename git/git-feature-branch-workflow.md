@@ -25,14 +25,22 @@
     - Verify you are still in your feature branch
 
       ```bash
-      # do not need to run this unless you changed branches 
+      # do not need to run this unless you changed branches
       git checkout feature/your-feature-name
       ```
 
-    - Fetch the latest changes from the main branch:
+    - Fetch the latest changes from the main branch into your feature branch and attempt to merge them:
 
       ```bash
       git pull origin main
+      ```
+
+      OR ALTERNATIVELY (this is what git pull does-- two commands: fetch and merge)
+
+      ```bash
+      git fetch origin main
+      git checkout feature/your-feature-name
+      git merge main
       ```
 
     - Resolve conflicts by editing the conflicting files manually.
