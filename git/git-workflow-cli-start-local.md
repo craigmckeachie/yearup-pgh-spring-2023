@@ -27,7 +27,7 @@
    cd pet-store
    ```
 
-1. Add an intial file to your project directory.
+1. Add an initial file to your project directory.
 
    ```sh
    touch index.html
