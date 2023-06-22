@@ -40,7 +40,7 @@
       ```bash
       git fetch origin main
       git checkout feature/your-feature-name
-      git merge main
+      git merge origin/main
       ```
 
     - Resolve conflicts by editing the conflicting files manually.
