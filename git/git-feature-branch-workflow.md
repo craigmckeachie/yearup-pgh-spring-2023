@@ -35,13 +35,14 @@
       git pull origin main
       ```
 
-      OR ALTERNATIVELY (this is what git pull does-- two commands: fetch and merge)
 
-      ```bash
-      git fetch origin main
-      git checkout feature/your-feature-name
-      git merge origin/main
-      ```
+      > Note: What git pull actually does is two commands: fetch and merge)
+      > YOU WILL NOT NEED TO RUN THESE COMMANDS BUT AS AN EXAMPLE
+      > ```bash
+      > git checkout feature/your-feature-name #make sure you are in your feature branch
+      > git fetch origin main 
+      > git merge origin/main
+      > ```
 
     - Resolve conflicts by editing the conflicting files manually.
     - Stage the resolved files for commit:
